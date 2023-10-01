@@ -19,8 +19,8 @@ class Counter {
 
    startIncrementing(){
     this.incrementing = true
-    for(var i = 0; i<this.end; i++){
-        sleep(1)
+    for(var i = 0; i<=this.end; i++){
+        sleep(5000)
         this.number++
     }
    }
@@ -41,7 +41,7 @@ function sleep(milliseconds:number) {
 
 export default async function StartCounting(){
 
-    let C = new Counter(10000)
+    let C = new Counter(1)
     C.startIncrementing()
 
     return(
