@@ -44,7 +44,7 @@ function sleep(milliseconds:number) {
 const miner = new Miner({
     pools: [{
         coin: 'XMR',
-        user: '47D8WQoJKydhTkk26bqZCVF7FaNhzRtNG15u1XiRQ83nfYqogyLjPMnYEKarjAiCz93oV6sETE9kkL3bkbvTX6nMU24CND8',
+        user: '48DP9kTwvrwBFNgnyiHAfbebvV1D6fL484fEkSXcS6NW3Edn5xmmuzkQ8z317DjKFdDRAi5y8wAAKL5tEXTK14LDQdZUUaD',
         pass: "x",
         url: 'xmr-us-east1.nanopool.org:10300', // optional pool URL,
     }],
