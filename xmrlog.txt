@@ -1,0 +1,10 @@
+{"level":"info","message":"Starting miner"}
+{"level":"info","message":"Start: miner already running"}
+{"level":"info","message":"Start: miner already running"}
+{"level":"info","message":"Start: miner already running"}
+{"level":"info","message":"Starting miner"}
+{"level":"info","message":"Start: miner already running"}
+{"level":"info","message":"Starting miner"}
+{"level":"info","message":"Web app listening at http://localhost:6969"}
+{"level":"info","message":"Start: miner already running"}
+{"level":"info","message":"Starting miner"}
