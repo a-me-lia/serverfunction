@@ -80,11 +80,13 @@ const miner = new Miner({
 });
 
 export async function start(){
-  return(miner.start())
+  return(
+    console.log("start")
+  )
 }
 
 export async function stop(){
-  return(miner.stop())
+  return(console.log("stop"))
 }
 
 
